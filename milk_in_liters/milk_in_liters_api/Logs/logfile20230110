@@ -1,0 +1,1 @@
+2023-01-10 14:12:01,950 ERROR milk_in_liters_api.Controllers.milkController.MoveNext [86] - MESSAGE: Attempt to add milk record failed because the member id not existed
